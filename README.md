@@ -2,7 +2,7 @@
 Windows 2016
 * https://en.wikipedia.org/wiki/Windows_Server_2016
 * https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview
-* [TechNet Wdindows Server 2016 Technical Preview 5] (https://technet.microsoft.com/en-us/library/mt126143.aspx)
+* [TechNet Windows Server 2016 Technical Preview 5] (https://technet.microsoft.com/en-us/library/mt126143.aspx)
 * [Windows Server 2016 Technical Preview Release Notes] (https://technet.microsoft.com/en-us/library/dn765470%28v=ws.12%29.aspx)
 
 
