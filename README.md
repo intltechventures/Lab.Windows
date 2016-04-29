@@ -32,6 +32,7 @@ Interesting Windows Server 2016 Articles
 * http://www.zdnet.com/article/microsoft-delivers-final-public-test-builds-of-windows-server-2016-system-center-2016/
 
 Downloads
+* https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview
 * Windows Server 2016 Essentials, Technical Preview 5 (Product Key provided)
 	* https://blogs.technet.microsoft.com/ausoemteam/2016/04/28/windows-server-2016-essentials-technical-preview-5-available-for-download/
 * Windows Server 2016, Technical Preview 5 (Product Key provided)
