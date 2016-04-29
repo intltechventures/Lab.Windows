@@ -7,10 +7,10 @@ Windows 2016
 
 
 Nano Server
-	* https://channel9.msdn.com/Series/Nano-Server-Team
-	* https://blogs.technet.microsoft.com/nanoserver/
-	* https://blogs.technet.microsoft.com/nanoserver/2016/04/27/developing-native-apps-on-nano-server/
-	* [MSDN Nano Server APIs] (https://msdn.microsoft.com/en-us/library/mt588480%28v=vs.85%29.aspx)
+* https://channel9.msdn.com/Series/Nano-Server-Team
+* https://blogs.technet.microsoft.com/nanoserver/
+* https://blogs.technet.microsoft.com/nanoserver/2016/04/27/developing-native-apps-on-nano-server/
+* [MSDN Nano Server APIs] (https://msdn.microsoft.com/en-us/library/mt588480%28v=vs.85%29.aspx)
 
 
 Microsoft Software Tools, Libraries, Frameworks for Windows Development
