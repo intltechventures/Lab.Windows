@@ -18,7 +18,7 @@ Microsoft Software Tools, Libraries, Frameworks for Windows Development
 * [.NET Core and Open Source] (https://msdn.microsoft.com/en-us/library/dn878908%28v=vs.110%29.aspx)
 * [.NET Framework 4.6 and 4.5] (https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx)
 * [.NET Development] (https://msdn.microsoft.com/en-us/library/ff361664%28v=vs.110%29.aspx)
-	
+* https://github.com/Microsoft/Docker-PowerShell/	
 
 Third Party Software Tools, Libraries, Frameworks for Windows Development
 * http://www.prefix.io/ 
