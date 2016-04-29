@@ -7,6 +7,7 @@ Windows 2016
 
 
 Nano Server
+* [TechNet Getting Started with Nano Server] (https://technet.microsoft.com/library/mt126167.aspx)
 * https://channel9.msdn.com/Series/Nano-Server-Team
 * https://blogs.technet.microsoft.com/nanoserver/
 * https://blogs.technet.microsoft.com/nanoserver/2016/04/27/developing-native-apps-on-nano-server/
@@ -25,6 +26,7 @@ Third Party Software Tools, Libraries, Frameworks for Windows Development
 
 Interesting Windows Server 2016 Articles
 * [What's New in Windows Server 2016 Technical Preview 5] (https://technet.microsoft.com/en-us/library/dn765472%28v=ws.12%29.aspx)
+* http://www.zdnet.com/article/microsoft-delivers-final-public-test-builds-of-windows-server-2016-system-center-2016/
 * https://blogs.technet.microsoft.com/windowsserver/2015/11/16/moving-to-nano-server-the-new-deployment-option-in-windows-server-2016/
 * https://blogs.technet.microsoft.com/windowsserver/2016/02/10/exploring-nano-server-for-windows-server-2016/
 * http://www.zdnet.com/article/microsoft-delivers-final-public-test-builds-of-windows-server-2016-system-center-2016/
