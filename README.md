@@ -22,6 +22,10 @@ Interesting Windows Server 2016 Articles
 * https://blogs.technet.microsoft.com/windowsserver/2015/11/16/moving-to-nano-server-the-new-deployment-option-in-windows-server-2016/
 * https://blogs.technet.microsoft.com/windowsserver/2016/02/10/exploring-nano-server-for-windows-server-2016/
 * http://www.zdnet.com/article/microsoft-delivers-final-public-test-builds-of-windows-server-2016-system-center-2016/
-* https://blogs.technet.microsoft.com/ausoemteam/2016/04/28/windows-server-2016-essentials-technical-preview-5-available-for-download/
-* https://blogs.technet.microsoft.com/ausoemteam/2016/04/28/windows-server-2016-technical-preview-5-available-for-download/
+
+Downloads
+* Windows Server 2016 Essentials, Technical Preview 5 (Product Key provided)
+	* https://blogs.technet.microsoft.com/ausoemteam/2016/04/28/windows-server-2016-essentials-technical-preview-5-available-for-download/
+* Windows Server 2016, Technical Preview 5 (Product Key provided)
+	* https://blogs.technet.microsoft.com/ausoemteam/2016/04/28/windows-server-2016-technical-preview-5-available-for-download/
 
