@@ -30,6 +30,7 @@ Interesting Windows Server 2016 Articles
 * https://blogs.technet.microsoft.com/windowsserver/2015/11/16/moving-to-nano-server-the-new-deployment-option-in-windows-server-2016/
 * https://blogs.technet.microsoft.com/windowsserver/2016/02/10/exploring-nano-server-for-windows-server-2016/
 * http://www.zdnet.com/article/microsoft-delivers-final-public-test-builds-of-windows-server-2016-system-center-2016/
+* [Developing Native Apps on Nano Server] (https://blogs.technet.microsoft.com/nanoserver/2016/04/27/developing-native-apps-on-nano-server/)
 
 Downloads
 * https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview
